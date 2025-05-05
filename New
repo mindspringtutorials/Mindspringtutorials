@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mindspring Tutorial</title>
+  <meta charset="UTF-8">
+  <style>
+    body { font-family: Arial; padding: 20px; }
+    h1 { color: #2b6cb0; }
+  </style>
+</head>
+<body>
+  <h1>Welcome to Mindspring Tutorial</h1>
+  <p>This is a test homepage. More content coming soon!</p>
+  <video width="320" height="240" controls>
+    <source src="yourvideo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</body>
+</html>
